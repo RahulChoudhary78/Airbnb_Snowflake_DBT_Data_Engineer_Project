@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Author
 
-**Rahul Choudhary**
+**Rahul jaiswal**
 
 GitHub: [RahulChoudhary78](https://github.com/RahulChoudhary78)
 
