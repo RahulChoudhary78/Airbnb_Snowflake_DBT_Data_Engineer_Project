@@ -1,0 +1,9 @@
+{
+    "dbt.lineage.defaultExpansion": 0,
+    "editor.cursorBlinking": "smooth",
+    "python.testing.pytestArgs": [
+        "aws_snowflake_dbt_project"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
